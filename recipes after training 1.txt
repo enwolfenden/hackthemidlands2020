@@ -1,0 +1,43 @@
+Oatmeal Chocolate Chip Cookies","1 teaspoon vanilla extract",
+"Oatmeal Chocolate Chip Cookies","1 cup all-purpose flour",
+"Oatmeal Chocolate Chip Cookies","1 .5 cups rolled oats",
+"Oatmeal Chocolate Chip Cookies","1 teaspoon baking soda",
+"Oatmeal Chocolate Chip Cookies",".5 teaspoon salt",
+"Oatmeal Chocolate Chip Cookies","1 cup semisweet chocolate chips",
+"Step 1","Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+"Step 2","In a large bowl, cream together the butter, brown sugar and white sugar until smooth. Beat in the vanilla. Combine the flour, oats, baking soda and salt; stir into the creamed mixture until blended. Fold in the chocolate chips. Drop by heaping teaspoonfuls onto the prepared cookie sheets."
+"Step 3","Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 2 minutes before removing to a wire rack to cool completely."
+"Chocolate Peanut Butter Sandwich Cookies","1 cup peanut butter",
+"Chocolate Peanut Butter Sandwich Cookies","1 cup butter, softened",
+"Chocolate Peanut Butter Sandwich Cookies","1 cup white sugar",
+"Chocolate Peanut Butter Sandwich Cookies","2 large eggs eggs",
+"Chocolate Peanut Butter Sandwich Cookies","1 teaspoon vanilla extract",
+"Chocolate Peanut Butter Sandwich Cookies","3 .5 cups all-purpose flour",
+"Chocolate Peanut Butter Sandwich Cookies","1 teaspoon baking soda",
+"Chocolate Peanut Butter Sandwich Cookies","1 teaspoon salt",
+"Chocolate Peanut Butter Sandwich Cookies","1 teaspoon baking powder",
+"Chocolate Peanut Butter Sandwich Cookies","1 teaspoon vanilla extract",
+"Chocolate Peanut Butter Sandwich Cookies","1 teaspoon baking soda",
+"Chocolate Peanut Butter Sandwich Cookies","1 cup semisweet chocolate chips",
+"Step 1","Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets."
+"Step 2","In a large bowl, cream together the peanut butter, butter and sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Combine the flour, baking soda and salt; stir into the peanut butter mixture. Mix in the chocolate chips. Drop by heaping teaspoonfuls onto the prepared cookie sheets."
+"Step 3","Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 2 minutes before removing to a wire rack to cool completely."
+"Pudding Cookies III","1 (18.25 ounce) package chocolate cake mix",
+"Pudding Cookies III","2 large eggs eggs",
+"Pudding Cookies III",".5 cup vegetable oil",
+"Pudding Cookies III","2 cups semisweet chocolate chips",
+"Pudding Cookies III","1 cup semisweet chocolate chips",
+"Step 1","Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets."
+"Step 2","In a large bowl, stir together the cake mix and eggs. Place the oil into a small saucepan over low heat. Stir frequently, and remove from heat. Stir in the chocolate chips and chocolate chips. Drop by teaspoonfuls onto the prepared cookie sheets."
+"Step 3","Bake for 10 to 12 minutes in the preheated oven."
+"Step 4","In a small bowl, stir together the cake mix, eggs, and vegetable oil. Roll into 1 inch balls and place 2 inches apart on the prepared cookie sheets. Flatten cookies with a fork."
+"Step 5","Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely."
+"Step 6","Melt the chocolate chips with the chocolate cake mix in a microwave-safe bowl in the microwave. Stir occasionally until melted and smooth."
+"Step 7","Beat together the eggs and 3 1/2 cups of the chocolate chips. Stir in the confectioners' sugar and chocolate chips. Add the chocolate cake mix one cup at a time, and stir until all the chocolate chips are incorporated. Reduce the mix to 1/4 cup at a time and stir in the remaining chocolate chips."
+"Step 8","Drop cookies by the teaspoons onto ungreased cookie sheets. Bake at 350 degrees F (175 degrees C) for 12 minutes. Let cookies cool on wire rack before moving them to wire racks to cool completely."
+"Molasses Cookies","1 cup butter, softened",
+"Molasses Cookies","1 .25 cups white sugar",
+"Molasses Cookies","1 .25 cups packed brown sugar",
+"Molasses Cookies","1 .25 cups unsweetened cocoa powder",
+"Molasses Cookies","2 large eggs eggs",
+"Molasses Cookies","1 egg",

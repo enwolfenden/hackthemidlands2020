@@ -1,0 +1,1 @@
+"https:\/\/www.allrecipes.com\/recipe\/\d+\/[a-zA-Z0-9\-]+\/\?internalSource=hub%20recipe&referringContentType=Search",
